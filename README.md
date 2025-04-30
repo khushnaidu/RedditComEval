@@ -15,4 +15,4 @@ It uses semantic search to retrieve similar Reddit comments from a vector databa
 3. Run the bot:
 
 ```bash
-python3 rag_rating_bot.py
+python3 rag_eval_bot.py
